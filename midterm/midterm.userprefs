@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/welcometext.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Getkey.cs">
     <Files>
-      <File FileName="Assets/scripts/RigidbodyController2.cs" Line="8" Column="23" />
       <File FileName="Assets/scripts/Getkey.cs" Line="12" Column="3" />
-      <File FileName="Assets/scripts/castletext.cs" Line="5" Column="2" />
-      <File FileName="Assets/scripts/welcometext.cs" Line="5" Column="2" />
-      <File FileName="Assets/scripts/endtext.cs" Line="8" Column="17" />
+      <File FileName="../../textworld_eliu/Textworld/Assets/script/textworld3.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

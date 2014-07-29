@@ -53,6 +53,52 @@ ModelImporter:
     100094: transform7
     100096: transform8
     100098: transform9
+    100100: polySurface10
+    100102: polySurface11
+    100104: polySurface12
+    100106: polySurface13
+    100108: polySurface14
+    100110: polySurface15
+    100112: polySurface16
+    100114: polySurface17
+    100116: polySurface18
+    100118: polySurface19
+    100120: polySurface20
+    100122: polySurface21
+    100124: polySurface22
+    100126: polySurface23
+    100128: polySurface24
+    100130: polySurface25
+    100132: polySurface3
+    100134: polySurface4
+    100136: polySurface5
+    100138: polySurface6
+    100140: polySurface7
+    100142: polySurface8
+    100144: polySurface9
+    100146: transform25
+    100148: transform26
+    100150: transform27
+    100152: transform28
+    100154: transform29
+    100156: transform30
+    100158: transform31
+    100160: transform32
+    100162: transform33
+    100164: transform34
+    100166: transform35
+    100168: transform36
+    100170: transform37
+    100172: transform38
+    100174: transform39
+    100176: transform40
+    100178: transform41
+    100180: transform42
+    100182: transform43
+    100184: transform44
+    100186: transform45
+    100188: transform46
+    100190: transform47
     400000: //RootNode
     400002: pCube1
     400004: pCube2
@@ -103,9 +149,58 @@ ModelImporter:
     400094: transform7
     400096: transform8
     400098: transform9
+    400100: polySurface10
+    400102: polySurface11
+    400104: polySurface12
+    400106: polySurface13
+    400108: polySurface14
+    400110: polySurface15
+    400112: polySurface16
+    400114: polySurface17
+    400116: polySurface18
+    400118: polySurface19
+    400120: polySurface20
+    400122: polySurface21
+    400124: polySurface22
+    400126: polySurface23
+    400128: polySurface24
+    400130: polySurface25
+    400132: polySurface3
+    400134: polySurface4
+    400136: polySurface5
+    400138: polySurface6
+    400140: polySurface7
+    400142: polySurface8
+    400144: polySurface9
+    400146: transform25
+    400148: transform26
+    400150: transform27
+    400152: transform28
+    400154: transform29
+    400156: transform30
+    400158: transform31
+    400160: transform32
+    400162: transform33
+    400164: transform34
+    400166: transform35
+    400168: transform36
+    400170: transform37
+    400172: transform38
+    400174: transform39
+    400176: transform40
+    400178: transform41
+    400180: transform42
+    400182: transform43
+    400184: transform44
+    400186: transform45
+    400188: transform46
+    400190: transform47
     2300000: polySurface2
+    2300002: polySurface25
     3300000: polySurface2
+    3300002: polySurface25
     4300000: polySurface2
+    4300002: polySurface25
     9500000: //RootNode
   materials:
     importMaterials: 1
